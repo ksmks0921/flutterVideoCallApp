@@ -1,0 +1,1 @@
+../../../libyuv-iOS/headers/libyuv/scale.h
